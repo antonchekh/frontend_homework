@@ -1,2 +1,0 @@
-# frontend_homework
-homework
